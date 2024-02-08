@@ -11,3 +11,6 @@ The shortest_path function calculates the shortest paths and distances in a weig
 
 #Tower of Hanoi Puzzle:
 The Tower of Hanoi is a classic mathematical puzzle with three rods and a number of disks of different sizes. The challenge is to move the entire stack from one rod to another, obeying the rules that only one disk can be moved at a time, and no disk can be placed on top of a smaller one.
+
+#Merge Sort Algorithm:
+Merge Sort recursively divides an array into halves until it contains single elements. Then, it merges and sorts these smaller arrays back together. This process continues until the entire array is sorted. It's a stable, efficient algorithm with a time complexity of O(n log n) for average and worst cases.
