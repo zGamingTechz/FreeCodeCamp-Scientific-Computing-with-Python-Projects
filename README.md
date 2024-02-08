@@ -8,3 +8,6 @@ The Luhn algorithm, also known as the modulus 10 or mod 10 algorithm, is a check
 
 #Shortest Path first:
 The shortest_path function calculates the shortest paths and distances in a weighted directed graph using Dijkstra's algorithm. It takes a graph, a starting node, and an optional target node. It initializes distances and paths, iterates through nodes, updates distances, and prints the shortest path and distance from the start to the target.
+
+#Tower of Hanoi Puzzle:
+The Tower of Hanoi is a classic mathematical puzzle with three rods and a number of disks of different sizes. The challenge is to move the entire stack from one rod to another, obeying the rules that only one disk can be moved at a time, and no disk can be placed on top of a smaller one.
